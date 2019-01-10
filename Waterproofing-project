@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>www.waterproofed.com</title>
+    <meta name="viewport" content="width=device-width", initial-scale=1.0, maximum-scale=1.0, user-scalable=0>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Staatliches" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  </head>
+  <body>
+
+    <header>
+      <div class="topHeader">
+        <div class="phone">
+          <p>Ph: 0497 660 008</p>
+        </div>
+        <div class="email">
+          <p>email: michaelanthony@gmail.com</p>
+        </div>
+        <div class="socialMediaIcons">
+          <a href="#" class="fa fa-facebook"></a>
+          <a href="#" class="fa fa-google"></a>
+          <a href="#" class="fa fa-linkedin"></a>
+          <a href="#" class="fa fa-youtube"></a>
+        </div>
+      </div>
+
+      <div class="ipadHeader">
+        <div class="header">
+          <h1 class="title">Waterproofed</h1>
+        </div>
+
+        <div class="navBar">
+          <ul>
+            <li>Home</li>
+            <li>About us</li>
+            <li>Waterproofing systems</li>
+            <li>Contact</li>
+          </ul>
+        </div>
+      </div>
+
+    </header>
+    <div class="mainSection">
+      <div class="imageLaptop">
+        <img class="image" src="img/TorchOnMembrane.jpg" alt="Tourch on Waterproofing">
+      </div>
+      <div class="centered">Tourch-on membrane
+      </div>
+      <input type="button" name="rollon" value="Learn more" class="button">
+    </div>
+
+<!--=================== our services ========================-->
+
+    <div class="ourServicesh1">
+      <h2>Our services</h2>
+    </div>
+
+    <div class="container">
+
+
+      <div class="flex1">
+        <div class="section1">
+          <h4 class="ourServicesh4">Torch-on Membrane</h4>
+          <ul class="ourServicesul">
+            <li>Last 20 years</li>
+            <li>Highly durable</li>
+            <li>UV resistant</li>
+            <li>Great for commercial works</li>
+          </ul>
+        </div>
+
+        <div class="section2">
+          <h4 class="ourServicesh4">Polyurethane</h4>
+          <ul class="ourServicesul">
+            <li>Dynamic product</li>
+            <li>10 year warrenty</li>
+            <li>Liquid application</li>
+            <li>Easy repair</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="flex2">
+        <div class="section3">
+          <h4  class="ourServicesh4">Volclay</h4>
+          <ul class="ourServicesul">
+            <li>Great under water table</li>
+            <li>Quick application</li>
+            <li>25 year warrenty</li>
+            <li>No chemicals</li>
+          </ul>
+        </div>
+
+        <div class="section4">
+          <h4  class="ourServicesh4">Peal and stick</h4>
+          <ul class="ourServicesul">
+            <li>Easy to use</li>
+            <li>Inexpensive</li>
+            <li>Best suited vertical jobs</li>
+            <li>Quick application</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="flex3">
+        <div class="section5">
+          <h4  class="ourServicesh4">Epoxy</h4>
+          <ul class="ourServicesul">
+            <li>Highly durable</li>
+            <li>Liquid application</li>
+            <li>Heat and cold resistant</li>
+            <li class="bottom">Lifetime warrenty</li>
+          </ul>
+        </div>
+
+        <div class="section6">
+          <h4  class="ourServicesh4">Corking</h4>
+          <ul class="ourServicesul">
+            <li>Polyurethane based</li>
+            <li>non-toxic</li>
+            <li>Tube application</li>
+          </ul>
+        </div>
+      </div>
+      </div>
+
+      <div class="laptopSection1">
+        <div class="laptopFlex">
+          <h4 class="laptoph4">Torch-on Membrane</h4>
+          <ul class="Laptopul1">
+            <li>Last 20 years</li>
+            <li>Highly durable</li>
+            <li>UV resistant</li>
+            <li>Great for commercial works</li>
+          </ul>
+        </div>
+        <div class="laptopFlex">
+          <h4 class="laptoph4">Polyurethane</h4>
+          <ul class="Laptopul1">
+            <li>Dynamic product</li>
+            <li>10 year warrenty</li>
+            <li>Liquid application</li>
+            <li>Easy repair</li>
+          </ul>
+        </div>
+        <div class="laptopFlex">
+          <h4 class="laptoph4">Volclay</h4>
+          <ul class="Laptopul1">
+            <li>Great under water table</li>
+            <li>Quick application</li>
+            <li>25 year warrenty</li>
+            <li>No chemicals</li>
+          </ul>
+        </div>
+      </div>
+
+        <div class="laptopSection2">
+          <div class="laptopFlex">
+            <h4 class="laptoph42">Torch-on Membrane</h4>
+            <ul class="Laptopul1">
+              <li>Last 20 years</li>
+              <li>Highly durable</li>
+              <li>UV resistant</li>
+              <li>Great for commercial works</li>
+            </ul>
+          </div>
+          <div class="laptopFlex">
+            <h4 class="laptoph42">Polyurethane</h4>
+            <ul class="Laptopul1">
+              <li>Dynamic product</li>
+              <li>10 year warrenty</li>
+              <li>Liquid application</li>
+              <li>Easy repair</li>
+            </ul>
+          </div>
+          <div class="laptopFlex">
+            <h4 class="laptoph42">Volclay</h4>
+            <ul class="Laptopul1">
+              <li>Great under water table</li>
+              <li>Quick application</li>
+              <li>25 year warrenty</li>
+              <li>No chemicals</li>
+            </ul>
+          </div>
+      </div>
+
+      <div class="footer">
+        <p>Copyright © 2019 Waterproofed Inc. All rights reserved</p>
+      </div>
+
+  </body>
+</html>
